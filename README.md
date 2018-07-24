@@ -6,8 +6,8 @@ A simple Flutter project using [Chuck Norris API](https://api.chucknorris.io/). 
 In this application you can see examples of :
 - how to navigate between screens;
 - how to pass data between two screens;
-- how to display images from the internet
-- how to fetch data from the internet 
+- how to display images from the internet;
+- how to fetch data from the internet; 
 
 
 ## Screens
